@@ -1,0 +1,11 @@
+model,parameters,valid_score
+Random Forest,"{'max_depth': 7, 'max_leaf_nodes': 13, 'min_samples_leaf': 6, 'splitter': 'best'}",0.7044273811468715
+Random Forest,"{'max_depth': 7, 'max_leaf_nodes': 13, 'min_samples_leaf': 9, 'splitter': 'best'}",0.7044273811468715
+Random Forest,"{'max_depth': 7, 'max_leaf_nodes': 13, 'min_samples_leaf': 12, 'splitter': 'best'}",0.7044273811468715
+Random Forest,"{'max_depth': 7, 'max_leaf_nodes': 13, 'min_samples_leaf': 2, 'splitter': 'best'}",0.7044273811468715
+Random Forest,"{'max_depth': 7, 'max_leaf_nodes': 13, 'min_samples_leaf': 11, 'splitter': 'best'}",0.7044273811468715
+Random Forest,"{'max_depth': 7, 'max_leaf_nodes': 13, 'min_samples_leaf': 10, 'splitter': 'best'}",0.7044273811468715
+Random Forest,"{'max_depth': 7, 'max_leaf_nodes': 13, 'min_samples_leaf': 1, 'splitter': 'best'}",0.7044273811468715
+Random Forest,"{'max_depth': 7, 'max_leaf_nodes': 13, 'min_samples_leaf': 8, 'splitter': 'best'}",0.7044273811468715
+Random Forest,"{'max_depth': 7, 'max_leaf_nodes': 13, 'min_samples_leaf': 7, 'splitter': 'best'}",0.7044273811468715
+Random Forest,"{'max_depth': 7, 'max_leaf_nodes': 13, 'min_samples_leaf': 3, 'splitter': 'best'}",0.7044273811468715

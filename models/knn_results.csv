@@ -1,0 +1,11 @@
+index,model,parameters,valid_score
+419,KNN,"{'algorithm': 'kd_tree', 'weights': 'uniform', 'metric': 'manhattan'}",0.8859533294564311
+415,KNN,"{'algorithm': 'ball_tree', 'weights': 'uniform', 'metric': 'manhattan'}",0.8858089459739016
+411,KNN,"{'algorithm': 'auto', 'weights': 'uniform', 'metric': 'manhattan'}",0.8854047055677338
+423,KNN,"{'algorithm': 'brute', 'weights': 'uniform', 'metric': 'manhattan'}",0.8854047055677338
+421,KNN,"{'algorithm': 'kd_tree', 'weights': 'distance', 'metric': 'manhattan'}",0.8852893571700571
+417,KNN,"{'algorithm': 'ball_tree', 'weights': 'distance', 'metric': 'manhattan'}",0.8852027270805394
+413,KNN,"{'algorithm': 'auto', 'weights': 'distance', 'metric': 'manhattan'}",0.8848562484036122
+425,KNN,"{'algorithm': 'brute', 'weights': 'distance', 'metric': 'manhattan'}",0.8848562484036122
+412,KNN,"{'algorithm': 'auto', 'weights': 'distance', 'metric': 'euclidean'}",0.8826908046061333
+416,KNN,"{'algorithm': 'ball_tree', 'weights': 'distance', 'metric': 'euclidean'}",0.8826908046061333
